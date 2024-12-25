@@ -1,9 +1,11 @@
 import Navbar from "../component/navbar";
+import Footer from "../component/footer";
 
 const Home = () => {
     return <>
     <Navbar />
-    <h3>mmk</h3>
+    <h3>COMMINGSOON</h3>
+    <Footer />
     </>
 }
 
